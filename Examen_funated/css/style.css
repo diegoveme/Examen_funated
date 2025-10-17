@@ -1,0 +1,76 @@
+body {
+    font-family: JetBrainsMono, monospace;
+    margin: 0;
+    background: #f7f7f7;
+}
+.titleform {
+    padding: 20px;
+    margin: 10px;
+    background: #f57ce5;
+    color: #fff;
+    text-align: center;
+    border-radius: 0 0 10px 10px;
+
+}
+.barnav {
+    background:#f57ce5;
+    color: #fff;
+    text-align: center;
+    border-radius: 10px;
+}
+.enlace{
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    padding: 8px 15px;
+    display: inline-block;
+}
+.information {
+    background: white;
+    border-radius: 12px;
+    padding: 30px;
+    max-width: 600px;
+    margin: 30px auto;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.recuadro {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 1em;
+}
+.btnSave{
+    background: #f57ce5;
+    color: white;
+    border: none;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 1em;
+}
+.message {
+    text-align: center;
+    margin-top: 10px;
+}
+.summary {
+    background: #e8f5e9;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 20px;
+    text-align: left;
+}
+.titleData {
+    color: #000000;
+    margin-top: 0;
+}
+.footpage {
+    text-align: center;
+    background: #f57ce5;
+    color: white;
+    border-radius: 10px 10px 0 0;
+    padding: 15px;
+}
